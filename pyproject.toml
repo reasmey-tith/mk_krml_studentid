@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "my_krml_studentid"
-version = "0.1.6"
+version = "0.1.7"
 description = "my first pyhton package"
 authors = ["student"]
 license = "None"
